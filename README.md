@@ -18,8 +18,8 @@ This project analyzes student data to predict their final grades using machine l
 
 ## 🧠 Results
 
-- R² Score: **0.915**
-- RMSE: **1.36**
+- R² Score: **0.86**
+- RMSE: **1.7**
 
 ## 📦 Tools Used
 
